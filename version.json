@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.0.1/dshpet_setup_1.0.1.exe",
-  "notes": "检查更新时可直接打开下载页",
+  "version": "1.0.2",
+  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.0.2/dshpet_setup_1.0.2.exe",
+  "notes": "修女立绘鞋子修复、自动检查不再重复",
   "date": "2026-11-20"
 }
