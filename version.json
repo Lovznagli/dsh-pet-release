@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.0.9/dshpet_setup_1.0.9.exe",
-  "notes": "修复更新时安装失败（先退出再装）与下载失败（多源重试）",
+  "version": "1.0.10",
+  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.0.10/dshpet_setup_1.0.10.exe",
+  "notes": "修复自动更新下载失败，镜像优先更快的一个",
   "date": "2026-11-21"
 }
