@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.2.0/dshpet_setup_1.2.0.exe",
-  "notes": "新增「找大肥鱼聊天」：微信风格窗口，双击已改为右键菜单",
+  "version": "1.2.5",
+  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.2.5/dshpet_setup_1.2.5.exe",
+  "notes": "支持直连 DeepSeek API，没装 DSH 也能聊天",
   "date": "2026-11-22"
 }
