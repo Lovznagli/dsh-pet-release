@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.2.8/dshpet_setup_1.2.8.exe",
-  "notes": "修复离开一下无反应，新增托盘唤醒",
+  "version": "1.5.0",
+  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.5.0/dshpet_setup_1.5.0.exe",
+  "notes": "1.5.0：锅盖彩蛋（小肥鱼点头 5 次）+ 16 张立绘全部重抠 + 主题色延伸到菜单悬停和发送键",
   "date": "2026-11-23"
 }
