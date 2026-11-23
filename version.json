@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.2.6/dshpet_setup_1.2.6.exe",
-  "notes": "修复聊天输入框自动切英文输入法",
-  "date": "2026-11-22"
+  "version": "1.2.8",
+  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.2.8/dshpet_setup_1.2.8.exe",
+  "notes": "修复离开一下无反应，新增托盘唤醒",
+  "date": "2026-11-23"
 }
