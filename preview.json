@@ -1,6 +1,6 @@
 {
-  "version": "1.8.11",
-  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.8.11/dshpet_setup_1.8.11.exe",
-  "notes": "1.8.11 预览：开机自启修复（补上 PetLauncher.exe + wscript 兜底）",
-  "date": "2026-11-27"
+  "version": "1.9.3",
+  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.9.3/dshpet_setup_1.9.3.exe",
+  "notes": "1.9.3 预览：更新通道（正式/预览）+ 侦探形象 + 贴边定格",
+  "date": "2026-11-26"
 }
