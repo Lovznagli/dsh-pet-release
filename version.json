@@ -1,6 +1,6 @@
 {
-  "version": "1.8.9",
-  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.8.9/dshpet_setup_1.8.9.exe",
-  "notes": "1.8.9：贴边半隐（探头姿势/左右镜像/固定 0.5 倍）+ 敲锅盖音效 + 全屏自动隐藏 + 待机微动画（可关）",
-  "date": "2026-11-25"
+  "version": "1.8.11",
+  "url": "https://ghproxy.net/https://github.com/Lovznagli/dsh-pet-release/releases/download/v1.8.11/dshpet_setup_1.8.11.exe",
+  "notes": "1.8.11：修复开机自启（补上 PetLauncher.exe + wscript 兜底）",
+  "date": "2026-11-27"
 }
